@@ -1,0 +1,104 @@
+[
+    {
+        "match": 1,
+        "players": [
+            {
+                "name": "Anvarnazeer Jabarullakhan",
+                "status": false
+            },
+            {
+                "name": "Askar Imran Syed Kani",
+                "status": false
+            },
+            {
+                "name": "Jagmeet Singh",
+                "status": false
+            },
+            {
+                "name": "Mohammed Ibraheem",
+                "status": false
+            },
+            {
+                "name": "Mohammed Sanaullah Mohammed Kalimulla",
+                "status": false
+            },
+            {
+                "name": "Nirekanth Yogarasa",
+                "status": false
+            },
+            {
+                "name": "Rajarshi Majumdar",
+                "status": false
+            },
+            {
+                "name": "Saraphraj Sulaiman",
+                "status": false
+            },
+            {
+                "name": "Shafiq Mohamed",
+                "status": false
+            },
+            {
+                "name": "Sudarshan L N",
+                "status": false
+            },
+            {
+                "name": "Syed Ibrahim Peer",
+                "status": false
+            }
+        ]
+    },
+    {
+        "match": 2,
+        "players": [
+            {
+                "name": "Abdul Rasheed",
+                "status": true
+            },
+            {
+                "name": "Anvarnazeer Jabarullakhan",
+                "status": true
+            },
+            {
+                "name": "Askar Imran Syed Kani",
+                "status": true
+            },
+            {
+                "name": "Jagmeet Singh",
+                "status": true
+            },
+            {
+                "name": "Mohammed Ibraheem",
+                "status": true
+            },
+            {
+                "name": "Mohammed Sanaullah Mohammed Kalimulla",
+                "status": true
+            },
+            {
+                "name": "Nirekanth Yogarasa",
+                "status": true
+            },
+            {
+                "name": "Rajarshi Majumdar",
+                "status": true
+            },
+            {
+                "name": "Saraphraj Sulaiman",
+                "status": true
+            },
+            {
+                "name": "Sudarshan L N",
+                "status": true
+            },
+            {
+                "name": "Sujith Shanmugam",
+                "status": true
+            },
+            {
+                "name": "Syed Ibrahim Peer",
+                "status": true
+            }
+        ]
+    }
+]
